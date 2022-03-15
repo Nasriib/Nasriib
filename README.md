@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nasriib
+- 👀 I’m interested in machine learning and signal processing 
+- 🌱 I’m currently learning File I/O, function implementation, and a wide variety of other important aspects of programming
+- 💞️ I’m looking to collaborate on any c programming based project
+- 📫 How to reach me email: tuo52028@temple.edu
